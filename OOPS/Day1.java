@@ -1,7 +1,7 @@
 // L2 - OOPS Java - What is OOP? - What are Classes and Objects? - Create a Class - Create an Object 
 // Multiple Objects - Using Multiple Classes - Class Attributes - Accessing Attributes 
-// Modify Attributes - final keyword - Multiple Attributes - Class Methods
-public class Day1 {
+// Modify Attributes - final keyword - Multiple Attributes - Class Methods - Static vs Public Methods 
+public class Day1 { 
     String Name = "Sridhar";
     int Age = 27;
     String Role = "L&D";
